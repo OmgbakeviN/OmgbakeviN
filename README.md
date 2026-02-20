@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin Omgba</h1>
+<h1 align="center">Hi 👋, I'm Omgba Paul Kevin</h1>
 <h3 align="center">Full-Stack Developer | React • Django • Clean Architecture</h3>
 
 <p align="center">
