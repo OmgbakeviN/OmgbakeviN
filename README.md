@@ -5,7 +5,7 @@
   <a href="https://my-portfolio-chi-seven-26.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/omgbakevin/">
+  <a href="https://cm.linkedin.com/in/paul-omgba-354bbb3a2">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kevinomgba1@gmail.com">
